@@ -1,0 +1,14 @@
+{
+  "name": "frontendpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vivek",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^2.1.1"
+  }
+}
